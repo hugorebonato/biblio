@@ -6,6 +6,6 @@
 
   Para rodar essa aplicação por favor digite:
   
-  ...
+  ```
   node app.js
-  ...
+  ```
